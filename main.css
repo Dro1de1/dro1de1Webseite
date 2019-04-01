@@ -20,6 +20,6 @@ body {
   color:rgba(255,255,255);
 }
 .ende {
-  color:rgba(255,255,255,.1);
+  color:rgba(255,255,255,.25);
   font-size: 1rem;
 }
