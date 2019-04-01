@@ -9,3 +9,9 @@ body {
   transform: translate(-50%,-50%);
   text-align:center;
 }
+.nothing h1 {
+  color: white;
+}
+.nothing h1 span {
+  color:rgba(255,255,255,40);
+}
