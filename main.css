@@ -9,9 +9,10 @@ body {
   transform: translate(-50%,-50%);
   text-align:center;
 }
-.nothing h1 {
-  color: white;
+.anfang {
+  color:rgba(255,255,255);
 }
-.nothing h1 span {
-  color:rgba(255,255,255,40);
+.ende {
+  color:rgba(255,255,255,1);
+  font-size: 1rem;
 }
